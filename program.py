@@ -17,11 +17,16 @@ def coin_change_greedy(coins, amount):
 
 coins = [1, 2, 5, 10]
 print(f"Koin yang tersedia: {coins}")
-amount = int(input("Nilai uang yang ingin ditukarkan: "))
 
-count, used = coin_change_greedy(coins, amount)
-if count != -1:
-  print(f"Koin minimum yang dibutuhkan: {count}")
-  print(f"Koin yang terpakai: {used}")
-else:
-  print("Tidak bisa menukar nilai uang dengan nominal koin yang ada.")
+try:
+  amount = int(input("Nilai uang yang ingin ditukarkan: "))
+  count, used = coin_change_greedy(coins, amount)
+  if count != -1:
+    print(f"Koin minimum yang dibutuhkan: {count}")
+    print(f"Koin yang terpakai: {used}")
+  else:
+    print("Tidak bisa menukar nilai uang dengan nominal koin yang ada.")
+  
+  
+except ValueError:
+  print("Input harus berupa integer.")
