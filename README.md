@@ -20,8 +20,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Web Screenshoot][product-screenshot]
-
 Greedy Coin Change Program as part of a course assignment for the Design and Analysis of Algorithms class of the Informatics major at Sebelas Maret University.
 
 ### How It Works:
