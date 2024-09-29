@@ -42,11 +42,13 @@ The application uses a greedy algorithms to find the solution.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-These are the instructions for setting up your project locally
-To get a local copy up and running follow these simple example steps.
+There are two ways to use this project:
 
+<strong>Quick Start</strong>: Download the executable (.exe) file from the Releases section.
 
-### Installation
+<strong>Local Setup</strong>: Follow these steps to set up the project on your local machine:
+
+### Local Installation
 
 1. Clone the repo
    ```sh
