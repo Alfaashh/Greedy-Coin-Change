@@ -87,7 +87,7 @@ Mohammad Ferdinand Ramdhani(L0123082) - [Github](https://github.com/mferdinandr)
 <br />
 Muhammad Al Fathi Ayyash(L0123088)- [Github](https://github.com/Alfaashh) - muhalfathiayyash@gmail.com
 
-Project Link: [https://github.com/alfaashh/20-Solver](https://github.com/alfaashh/Greedy-Coin-Change/)
+Project Link: [https://github.com/alfaashh/Greedy-Coin-Change](https://github.com/alfaashh/Greedy-Coin-Change/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
