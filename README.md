@@ -12,7 +12,7 @@
     <br />
   </p>
   <p align="center">
-    <a href="https://github.com/alfaashh/20-Solver/tree/main/docs"><strong>Explore the docs </strong></a>
+    <a href="https://github.com/alfaashh/Greedy-Coin-Change/tree/main/docs"><strong>Explore the docs </strong></a>
   </p>
 </div>
 
